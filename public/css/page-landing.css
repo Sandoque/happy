@@ -8,11 +8,12 @@
 
 #container {
   margin: auto;
+  width: 90%;
 }
 
 .location,
 h1,
-visit p {
+.visit p {
   height: 16vh;
 }
 
@@ -34,7 +35,7 @@ visit p {
 }
 
 .visit a:hover {
-    background: #96feff;
+  background: #96feff;
 }
 
 #logo {
