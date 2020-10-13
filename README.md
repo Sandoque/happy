@@ -44,11 +44,11 @@ As seguintes tecnologias estão sendo usadas na construção do projeto:
  
 [![Linkedin Badge](https://img.shields.io/badge/-Sandoque-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sandoque/)](https://www.linkedin.com/in/sandoque/) [![Gmail Badge](https://img.shields.io/badge/-acsandoque@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:acsandoque@gmail.com)](mailto:acsandoque@gmail.com)
 
----
+<!-- ---
 ## :page_with_curl: Licença
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 
----
+--- -->
 
 
 
