@@ -34,7 +34,6 @@ As seguintes tecnologias estão sendo usadas na construção do projeto:
 
 
 ---
-## :factory: Autor
 
 <a href="https://www.linkedin.com/in/sandoque/">
  <img style="border-radius: 50%;" src="https://user-images.githubusercontent.com/65127683/95398436-20bcbf00-08dc-11eb-95a3-d1aaedc987d0.jpg" width="100px;" alt=""/></a>
