@@ -4,14 +4,15 @@
 
 <p align = "center">
   <img src = "https://user-images.githubusercontent.com/65127683/95812938-02e0c700-0ced-11eb-9b3c-7887c2c7e190.png"
- width = "400">
+ height = "400">
 </p>
 
 ---
 
 ## :dash: Deploy da Aplicação com Netlify
 
->  ### :link: https://my-happy.netlify.app/ <br />
+> ### :link: https://my-happy.netlify.app/ <br />
+>
 > [![Netlify Status](https://api.netlify.com/api/v1/badges/6fc4bb0b-9d36-477c-b041-c11f988eaa09/deploy-status)](https://app.netlify.com/sites/my-devgallery/deploys)
 
 ---
@@ -31,8 +32,6 @@ As seguintes tecnologias estão sendo usadas na construção do projeto:
 - [HTML](https://www.w3schools.com/html/default.asp)
 - [Javascript](https://www.w3schools.com/js/default.asp)
 
-
-
 ---
 
 <a href="https://www.linkedin.com/in/sandoque/">
@@ -48,6 +47,3 @@ As seguintes tecnologias estão sendo usadas na construção do projeto:
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 
 --- -->
-
-
-
