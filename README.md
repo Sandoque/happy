@@ -18,13 +18,14 @@
 
 ## 📖 Sobre
 
+<p>Projeto em desenvolvimento durante a NLW#3 da Rocketseat, no período de 03 a 09 de agosto de 2020.</p>
 <p>A ideia do Happy é conectar pessoas a orfanatos, para que possam agendar visitas, e tornar mais feliz o dia de muitas crianças </p>
 
 ---
 
 ## 🛠 Tecnologias utilizadas
 
-As seguintes ferramentas foram usadas na construção do projeto:
+As seguintes tecnologias estão sendo usadas na construção do projeto:
 
 - [CSS](https://www.w3schools.com/css/)
 - [HTML](https://www.w3schools.com/html/default.asp)
