@@ -9,12 +9,12 @@
 
 ---
 
-<!-- ## :dash: Deploy da Aplicação com Netlify
+## :dash: Deploy da Aplicação com Netlify
 
->  ### :link: https://my-devgallery.netlify.app/ <br />
+>  ### :link: https://my-happy.netlify.app/ <br />
 > [![Netlify Status](https://api.netlify.com/api/v1/badges/6fc4bb0b-9d36-477c-b041-c11f988eaa09/deploy-status)](https://app.netlify.com/sites/my-devgallery/deploys)
 
---- -->
+---
 
 ## 📖 Sobre
 
