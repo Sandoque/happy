@@ -5,15 +5,34 @@
 // Boolean true or false
 // Array []
 
+//verify in 1:51:43
 
-const map = L.map('mapid').setView([51.505, -0.09], 13);
 
+//create map
+const map = L.map('mapid').setView([-8.0570869,-34.9252356], 18);
+
+// create and add tileLayer
 L.tileLayer(
-    'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', 
-    {
-    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-}).addTo(map);
+    'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png').addTo(map)
 
-L.marker([51.5, -0.09]).addTo(map)
-    .bindPopup('A pretty CSS3 popup.<br> Easily customizable.')
-    .openPopup();
+// create icon
+const icon = L.icon({
+    iconUrl: "./public/images/map-marker.svg",
+    iconSize: [58, 68],
+    iconAnchor: [29, 68],
+    popupAnchor: [170,2]
+})
+
+// create popup overlay
+const popup = L.popup({
+    closeButton: false,
+    className: 'map-popup',
+    minWidth: 240,
+    minHeight: 240
+}).setContent('lar das meninas <a href="orphanage.html?id=1"class="choose-orphanage"> <img src="./public/images/arrow-white.svg" ></a>')
+
+// create and add marker
+L
+.marker([-8.0570869,-34.9252356], { icon })
+.addTo(map)
+.bindPopup(popup)
