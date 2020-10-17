@@ -1,0 +1,27 @@
+{
+  "name": "nlw3",
+  "version": "1.0.0",
+  "description": "<h1 align = \"center\"> :man_with_gua_pi_mao: Happy</h1>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sandoque/happy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sandoque/happy/issues"
+  },
+  "homepage": "https://github.com/Sandoque/happy#readme",
+  "dependencies": {
+    "asyn": "0.0.1",
+    "async": "^3.2.0",
+    "express": "^4.17.1",
+    "hbs": "^4.1.1",
+    "sqlite-async": "^1.1.0"
+  }
+}
