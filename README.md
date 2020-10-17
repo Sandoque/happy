@@ -31,7 +31,8 @@ As seguintes tecnologias estão sendo usadas na construção do projeto:
 - [CSS](https://www.w3schools.com/css/)
 - [HTML](https://www.w3schools.com/html/default.asp)
 - [Javascript](https://www.w3schools.com/js/default.asp)
-
+- [Node](https://nodejs.org/en/)
+  
 ---
 
 <a href="https://www.linkedin.com/in/sandoque/">
