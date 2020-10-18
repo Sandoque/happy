@@ -92,5 +92,10 @@ function toggleSelect(event) {
 }
 
 function validade(event) {
-    //event.preventDefault()
+    //event.preventDefault() - DESAFIO VAIDAR PONTO JÁ MARCADO NO MAPA
+    const needsLatAndLng = false;
+    if(needsLatAndLng) {
+        eevent.preventDefault()
+        alert('Selecione um ponto no mapa')
+    }
 }
