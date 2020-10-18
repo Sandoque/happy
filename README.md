@@ -32,6 +32,9 @@ As seguintes tecnologias estão sendo usadas na construção do projeto:
 - [HTML](https://www.w3schools.com/html/default.asp)
 - [Javascript](https://www.w3schools.com/js/default.asp)
 - [Node](https://nodejs.org/en/)
+- [SQLite](https://www.sqlite.org/index.html)
+
+
   
 ---
 
