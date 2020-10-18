@@ -1,6 +1,6 @@
-//create map
+//create map -8.0508624,-34.9112993
 
-const map = L.map('mapid').setView([-8.0570869, -34.9252356], 15);
+const map = L.map('mapid').setView([-8.0508624, -34.9112993], 20);
 
 //create and add tileLayer
 
