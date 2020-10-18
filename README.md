@@ -19,7 +19,7 @@
 
 ## 📖 Sobre
 
-<p>Projeto em desenvolvimento durante a NLW#3 da Rocketseat, no período de 12 a 18 de outubro de 2020.</p>
+<p>Projeto desenvolvido durante a NLW#3 da Rocketseat, no período de 12 a 18 de outubro de 2020.</p>
 <p>A ideia do Happy é conectar pessoas a orfanatos, para que possam agendar visitas, e tornar mais feliz o dia de muitas crianças </p>
 
 ---
